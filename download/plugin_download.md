@@ -341,3 +341,4 @@ A plugin for [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) th
 * 作者：[gurenn](https://github.com/gurenn)
 * 主页：[gurenn/ScreenshotPlugin-for-TrafficMonitor](https://github.com/gurenn/ScreenshotPlugin-for-TrafficMonitor)
 * 下载链接：https://github.com/gurenn/ScreenshotPlugin-for-TrafficMonitor/releases/latest
+* 相关链接：[[分享] TMPluginScreenshot 截图插件 · Issue #191](https://github.com/zhongyang219/TrafficMonitorPlugins/issues/191)
