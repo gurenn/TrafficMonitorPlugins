@@ -329,3 +329,4 @@ Adds full screen / region (rubber-band selection with a modern crosshair cursor 
 * Author: [gurenn](https://github.com/gurenn)
 * Homepage: [gurenn/ScreenshotPlugin-for-TrafficMonitor](https://github.com/gurenn/ScreenshotPlugin-for-TrafficMonitor)
 * Download url: https://github.com/gurenn/ScreenshotPlugin-for-TrafficMonitor/releases/latest
+* Related link: [[Share] TMPluginScreenshot plugin · Issue #191](https://github.com/zhongyang219/TrafficMonitorPlugins/issues/191)
